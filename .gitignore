@@ -1,0 +1,10 @@
+computed_data.json
+
+*.in
+*.out
+
+timer.dat
+
+freqcom.txt
+
+Freqscale_Manual.pdf
