@@ -8,3 +8,4 @@ timer.dat
 freqcom.txt
 
 Freqscale_Manual.pdf
+__pycache__/
